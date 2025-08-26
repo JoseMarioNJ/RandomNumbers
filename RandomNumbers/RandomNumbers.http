@@ -1,0 +1,6 @@
+@RandomNumbers_HostAddress = http://localhost:5111
+
+GET {{RandomNumbers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
